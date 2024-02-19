@@ -1,0 +1,10 @@
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/DisplayElement.java
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/Observer.java
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/Subject.java
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/StatisticsDisplay.java
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/WeatherData.java
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/WeatherMonitoringApplication.java
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/ForecastDisplay.java
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/CurrentConditionDisplay.java
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/controllers/DisplayController.java
+/Users/sasha/Desktop/CSCI-C 322/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/controllers/HomeController.java
